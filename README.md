@@ -29,12 +29,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/images/accordion.png.jpg)
+![](./assets/images/accordion.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [faq-accordion](https://caleb-abuul.github.io/faq-accordion/)
 
 ## My process
 
@@ -79,4 +79,4 @@ By writing down my thoughts and thinking through what I wanted to do, I was figu
 
 ## Acknowledgments
 
-Though I didn't consult much external resources for this project the wisdom of [Kevin Powell](https://github.com/kevin-powell) was a constant guide through out the project. He has been a great inspiration through his [YouTube Channel](https://youtube.com/@KevinPowell?si=Yhw2-yrCyeetnmys). He has tons of videos spanning several topics in CSS on YouTube. Please do well to check him out [Kevin Powell](https://youtube.com/@KevinPowell?si=Yhw2-yrCyeetnmys)
+Though I didn't consult much external resources for this project, the wisdom of [Kevin Powell](https://github.com/kevin-powell) was a constant guide through out the project. He has been a great inspiration through his [YouTube Channel](https://youtube.com/@KevinPowell?si=Yhw2-yrCyeetnmys). He has tons of videos spanning several topics in CSS on YouTube. Please do well to check him out [Kevin Powell](https://youtube.com/@KevinPowell?si=Yhw2-yrCyeetnmys)
